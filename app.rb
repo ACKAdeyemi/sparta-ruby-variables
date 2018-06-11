@@ -7,7 +7,7 @@ a_slightly_longer_varaible = 100.5
 puts my_number
 puts my_first_string
 puts a_slightly_longer_varaible
-puts a_slightly_longer_varaible.ceil # round up mehtod
+puts a_slightly_longer_varaible.ceil # round up method
 puts a_slightly_longer_varaible.floor # round down method
 
 
