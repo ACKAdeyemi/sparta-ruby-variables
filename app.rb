@@ -80,5 +80,5 @@ p first_hash[:name]
 
 arr = [1,2,3,"Name"]
 arr.reverse!
-p arr.include? 'N'
+p arr.include? '1' # checks objects against parameter using include method
 p arr
